@@ -55,7 +55,7 @@ Die neu erstellte Komponente muss noch in App.jsx eingebunden werden:
 >
 >   return(
 >
->    <ComponentName />;
+>     <ComponentName />;
 >
 >   )
 > 
