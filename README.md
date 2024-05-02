@@ -23,19 +23,27 @@ Nach Neustart von vs code Server starten:
 
 Im src Ordner neue Datei erstellen:
 > ComponentName.jsx
+
 Die Datei muss mit Großbuchstaben beginnen und mit .jsx enden
->
+
+
 > function ComponentName() {
-  return (
-    <>
-      <div>HTML Element 1</div>
-      <div>HTML Element 2</div>
-    </>
-  );
-}
-export default ComponentName;
+> 
+>  return (
+> 
+>    <>
+> 
+>      <div>HTML Element 1</div>
+> 
+>      <div>HTML Element 2</div>
+> 
+>    </>
+> 
+>  );
+>
+> export default ComponentName;
 
-
+text
 
 
 
