@@ -28,15 +28,36 @@ Die Datei muss mit Großbuchstaben beginnen und mit .jsx enden
 
 
 > function ComponentName() {
+> 
 >  return (
+> 
 >    <>
+> 
 >      <div>HTML Element 1</div>
+> 
 >      <div>HTML Element 2</div>
+> 
 >    </>
+> 
 >  );
+> 
 > export default ComponentName;
 
-text
+Es darf standardmäßig nur ein HTML Element im return statement stehen. 
+Das kann umgangen werden, indem mehrere HTML Elemente in einem leeren HTML Element (<> </>) eingebettet sind.
+
+
+Die neu erstellte Komponente muss noch in App.jsx eingebunden werden:
+
+> import ComponentName from "./ComponentName.jsx";
+>
+> function App() {
+>
+>   return <ComponentName />;
+>
+> }
+>
+> export default App;
 
 
 
