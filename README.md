@@ -144,8 +144,17 @@ App.jsx
 
 
 
-
-
-
 # JavaScript im HTML Code einbinden
+
+Mithilfe von geschweiften Klammern {} kann JavaScript Code innerhalb des HTML Codes innerhalb des JavaScript Codes eingefügt werden.
+
+In Footer.jsx:
+
+>   <>\&copy; iGEM Muenster {new Date().getFullYear()} </>
+
+
+
+
+
+
 
