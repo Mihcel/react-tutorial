@@ -24,7 +24,7 @@ Nach Neustart von vs code Server starten:
 Im src Ordner neue Datei erstellen:
 > ComponentName.jsx
 
-Die Datei muss mit Großbuchstaben beginnen und mit .jsx enden
+Die Datei muss mit Großbuchstaben beginnen und mit .jsx enden.
 
 
 > function ComponentName() {
@@ -59,5 +59,5 @@ Die neu erstellte Komponente muss noch in App.jsx eingebunden werden:
 >
 > export default App;
 
-
+Beim Speichern der Datei wird die Website automatisch aktualisiert.
 
