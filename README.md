@@ -28,19 +28,12 @@ Die Datei muss mit Großbuchstaben beginnen und mit .jsx enden
 
 
 > function ComponentName() {
-> 
 >  return (
-> 
 >    <>
-> 
 >      <div>HTML Element 1</div>
-> 
 >      <div>HTML Element 2</div>
-> 
 >    </>
-> 
 >  );
->
 > export default ComponentName;
 
 text
