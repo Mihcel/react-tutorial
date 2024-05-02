@@ -74,7 +74,7 @@ Header.jsx
 >   return (
 > 
 >     <header>
-  
+>  
 >       <a href="./home.html">Home </a>
 >  
 >       <a href="./project.html">Our Project </a>
@@ -141,8 +141,10 @@ App.jsx
 > }
 > 
 > export default App;
-> 
->
+
+
+
+
 
 
 # JavaScript im HTML Code einbinden
