@@ -153,8 +153,3 @@ In Footer.jsx:
 >   <>\&copy; iGEM Muenster {new Date().getFullYear()} </>
 
 
-
-
-
-
-
