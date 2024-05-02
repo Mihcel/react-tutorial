@@ -8,9 +8,12 @@ Neues React Projekt beginnen:
 - React auswählen
 - JavaScript auswählen
 > cd [project name]
+
 > npm install
+
 > npm run dev
 
 Nach Neustart von vs code Server starten:
 > cd [project name]
+
 > npm run dev
