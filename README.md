@@ -40,7 +40,7 @@ Die Datei muss mit Großbuchstaben beginnen und mit .jsx enden.
 >    </>
 > 
 >  );
-> 
+>  }
 > export default ComponentName;
 
 Es darf standardmäßig nur ein HTML Element im return statement stehen. 
